@@ -45,8 +45,8 @@ streamlit run app.py
 
 ## App
 
-🔹 **App Interface**
-*([you can check the app](https://tweet-sentiment-analyzer-fk.streamlit.app/))*
+🔹 **Live App on streamlit**
+*([you can check the app here ](https://tweet-sentiment-analyzer-fk.streamlit.app/))*
 
 🔹 **Prediction Example**
 *(![screenshot](screenshot-1756119467144.png))*
