@@ -2,6 +2,7 @@ import streamlit as st
 import joblib
 import numpy as np
 import plotly.graph_objects as go
+import sklearn
 
 # Load model & vectorizer
 model = joblib.load("sentiment_model.pkl")
