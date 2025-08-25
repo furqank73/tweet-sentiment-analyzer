@@ -43,13 +43,13 @@ streamlit run app.py
 
 ---
 
-## 📸 Screenshots
+## App
 
 🔹 **App Interface**
-*(Add your screenshot here)*
+*([you can check the app](https://tweet-sentiment-analyzer-fk.streamlit.app/))*
 
 🔹 **Prediction Example**
-*(Add your screenshot here)*
+*(![screenshot](screenshot-1756119467144.png))*
 
 ---
 
